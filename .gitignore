@@ -1,3 +1,4 @@
-./viper_logs.egg-info
-./dist
-./examples/logs
+# Ces entrées devraient commencer sans /
+viper_logs.egg-info/
+dist/
+examples/logs/
