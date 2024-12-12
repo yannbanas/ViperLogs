@@ -1,3 +1,0 @@
-examples
-tests
-viper_logs

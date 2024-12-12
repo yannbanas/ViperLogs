@@ -1,4 +1,5 @@
-# Ces entrées devraient commencer sans /
 viper_logs.egg-info/
 dist/
 examples/logs/
+info.md
+viper_logs/__pycache__/
