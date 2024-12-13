@@ -10,6 +10,16 @@ setup(
         "pyyaml>=6.0.0"
     ],
     author="BANAS Yann",
+    author_email="yannbanas@gmail.com",
     description="Modern Python logging library",
-    python_requires=">=3.9.0",
+    long_description=open("readme.md").read(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/yannbanas/ViperLogs",
+    classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3.9",
+    ],
+    python_requires=">=3.9",
 )
